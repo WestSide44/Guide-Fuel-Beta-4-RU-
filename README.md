@@ -422,7 +422,7 @@ vim counter-contract/src/main.sw
 - Тыкаем `:w` и жмякаем `Enter` чтобы сохранить изменения
 
 
-- Тыкаем `:q` to close the document
+- Тыкаем `:q` для выхода из документа
 
 
 
