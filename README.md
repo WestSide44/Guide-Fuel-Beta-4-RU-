@@ -154,7 +154,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://install.fuel.network/fuelup-init.sh
 
 
 
-## Configure PATH
+## Настройка PATH
 
 
 
@@ -178,7 +178,7 @@ source /root/.bashrc
 
 
 
-## Installs the toolchain
+## Установка инструментов
 
 
 
@@ -269,7 +269,7 @@ forc new counter-contract
 
 
 
-Вы должны получить следующее
+Вы должны получить следующее:
 
 
 
